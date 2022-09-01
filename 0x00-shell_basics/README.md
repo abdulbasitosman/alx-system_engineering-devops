@@ -8,3 +8,4 @@ Create a script that creates a directory named my_first_directory in the /tmp/ d
 Written a script that changes the working directory to the previous one.
 File type
 a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+13. We are symbols, and inhabit symbols
